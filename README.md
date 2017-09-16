@@ -29,9 +29,14 @@ James - Designer
 Glen - Designer
 
 Julian - Lead Artist
+
 Chloe - Artist
+
 Marco - Programmer
+
 Navaneeth - Programmer
+
 Surej - Programmer
+
 Johnny - Programmer
 
