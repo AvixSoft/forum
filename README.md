@@ -21,9 +21,13 @@ English (Default)
 ## Team
 
 Nikolas - Lead Programmer, Director
+
 Angela - Lead Designer
+
 James - Designer
+
 Glen - Designer
+
 Julian - Lead Artist
 Chloe - Artist
 Marco - Programmer
