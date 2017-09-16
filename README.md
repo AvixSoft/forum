@@ -1,4 +1,4 @@
-# forum
+# Main Info
 
 Welcome to the NK Studios forum for our newest game projects. If you have any questions on the layout then contact me at (310)-902-4760
 
@@ -20,4 +20,14 @@ English (Default)
 
 ## Team
 
+Nikolas - Lead Programmer, Director
+Angela - Lead Designer
+James - Designer
+Glen - Designer
+Julian - Lead Artist
+Chloe - Artist
+Marco - Programmer
+Navaneeth - Programmer
+Surej - Programmer
+Johnny - Programmer
 
