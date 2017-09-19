@@ -1,6 +1,6 @@
 # Main Info
 
-Welcome to the NK Studios forum for our newest game projects. If you have any questions on the layout then contact me at (310)-902-4760
+Welcome to the GearX Studios forum for our newest game projects. If you have any questions on the layout then contact me at (310)-902-4760
 
 ## Game type
 
@@ -8,7 +8,7 @@ Welcome to the NK Studios forum for our newest game projects. If you have any qu
 
 ## Engine
 
-Three.js 
+TerrX64.js 
 
 ## Story
 
@@ -21,6 +21,10 @@ Undecided
 ## Languages 
 
 English (Default)
+
+## IDE
+
+Blitz Basic, Visual Studios
 
 ## Team
 
